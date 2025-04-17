@@ -24,7 +24,7 @@ To write a Python program that reads two matrices from the user and performs mat
 ## 💻 PROGRAM:
 ADD CODE HERE
 
-## OUTPUT
+## OUTPUT:
 
-## RESULT
+## RESULT:
 
