@@ -1,4 +1,4 @@
-# 🧮 Transpose of Matrix using List Comprehension
+# 🧮 List Comprehension:Transpose of Matrix 
 
 ## 🎯 AIM:
 To write a Python program to compute the **transpose** of a matrix using **list comprehension**.
