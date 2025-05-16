@@ -21,7 +21,24 @@ To write a Python class-based program that generates all even numbers between 20
 
 ## 💻 PROGRAM:
 Add Code Here
+```
+  first=int(input())
+  difference=int(input())
+  last=int(input())
+  
+  print("First Number",first)
+  print("Difference",difference)
+  print("Last Number",last)
+  
+  ap_series=[i for i in range(first,last+1,difference)]
+  print(ap_series)
+```
+
+
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/94f28055-d12e-42b5-8057-bcc9be83a974)
+
 ## RESULT:
+Thus, the program has been execueted successfully.
